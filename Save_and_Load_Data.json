@@ -1,5 +1,5 @@
 {
-  "members" : "Super Hero Squad",
+  "squadNames" : "Super Hero Squad",
   "homeTown" : "Metro City",
   "formed" : 2016,
   "secretBase" : "Super tower",
